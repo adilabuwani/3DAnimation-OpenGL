@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\3dAnimation\main.cpp(6,38): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\3dAnimation\main.cpp(9,49): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\3dAnimation\main.cpp(13,38): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\3dAnimation\main.cpp(15,48): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\3dAnimation\main.cpp(153,34): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  3dAnimation.vcxproj -> C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\3dAnimation\Debug\3dAnimation.exe
